@@ -3,7 +3,7 @@
 **Created By :** Ahmed ismail
 **Email :** ahmed1kaballo@gmail.com
 
-This is the main readme file for the code used in Mastering CI/CD with GitHub Actions: Automate, Test, Deploy course on Udemy
+This is the main readme file for the code used in Mastering CI/CD with GitHub Actions: Automate, Test, Deploy
 
 ## Installation
 
